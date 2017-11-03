@@ -1,4 +1,4 @@
-# Ultimate ICO Calendar - Forked from https://github.com/Scanate/UltimateICOCalendar to maintain regular updates.
+#Ultimate ICO Calendar - Forked from https://github.com/Scanate/UltimateICOCalendar to maintain regular updates.
 
 There are a lot of ICO calendars with incomplete information. So, why not crowdsource it and allow people (including founders) to contribute?
 
