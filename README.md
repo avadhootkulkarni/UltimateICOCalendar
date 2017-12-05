@@ -36,6 +36,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | August 29 | KickCoin | KICKICO is a company for crowdfunding and crowdinvesting in cryptocurrency. | Ethereum | [Link](https://www.kickico.com/) | [Link](https://crowd-ico.slack.com/join/shared_invite/MjA4NjQ0ODMzOTg0LTE0OTk0MjEzMTItNjk4YjMwYTkyZQ) | [Link](https://www.reddit.com/r/KickICO/comments/6n3ag3/welcome_to_rkickico/) | [Link](https://twitter.com/kickicoplatform) |
 | September 1 | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
+| (2018)January 16 | Cardstack | The Experience Layer of the Decentralized Internet| Ethereum | [Link](https://cardstack.com/) | [Link](join.cardstack.com) | [Link](NA) | [Link](https://twitter.com/cardstack) |
 
 ## Unconfirmed Dates
 
