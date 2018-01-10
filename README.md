@@ -41,6 +41,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | November 10 | Arker | Arker is the first RPG online video game that rewards the user with a cryptocurrency. | Waves | [Link](https://arker.io/) | [Link](https://join.slack.com/t/arkerofficial/shared_invite/enQtMjU3MzUyNjU4OTYzLTAyNWUxOTQyN2FjNzBiNzZjYTlmOGQwMjVmODAyMjhiZTFjZmZjMmJlM2RmNzY3YjZlOWY4MTVkYTUzZWI1ZTU) | | [Link](https://twitter.com/ArkerCommunity) |
 | November 22 | Neunio | Applying blockchain and AI to classic HR processes and challenges, leveraging the utility token Neunios to power interactions on the platform. | Own Blockchain | [Link](https://neunio.io) | (Discord) [Link](https://discord.gg/W9kZyqX) | | [Link](https://twitter.com/neunet_iXd) |
 | November 30 | Debitum | Leveraging Blockchain technology to secure and distribute fiat investments to the SME world. Decentralized, accessible, and fair. | Ethereum | [Link](https://debitum.network) | [Link](https://t.me/joinchat/G6KFmURKsu0FIfJetJ3mOA) | [Link](https://www.reddit.com/user/DebitumNetwork) | [Link](https://twitter.com/DebitumNetwork) |
+| February 15 | RightMesh | A distributed network that incentivizes people to share mobile device resources. | Ethereum | [Link](https://www.rightmesh.io/) | [Link](https://t.me/rightmesh) | [Link](https://www.reddit.com/r/RightMesh/) | [Link](https://twitter.com/Right_Mesh) |
 
 ## Coming Soon
 
@@ -49,4 +50,3 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Coming Soon | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 | Q4  | eTardis  | Software Distribution Re-Imagined | Ethereum | [Link](http://etardis.com/) | | [Link](https://www.reddit.com/user/etardis_eth/)|[Link](https://twitter.com/etardis_eth) |
 | Q4 | Loci | Platform for identifying and publishing new IP discoveries to the blockchain | Ethereum | [Link](https://locipro.com/) | [Link](https://loci-innvenn.herokuapp.com/) | [Link](https://www.reddit.com/r/loci_io/) | [Link](https://www.twitter.com/loci_io) |
-| Q1 2018 | RightMesh | A distributed network that incentivizes people to share mobile device resources. | Ethereum | [Link](https://www.rightmesh.io/) | [Link](https://t.me/rightmesh) | [Link](https://www.reddit.com/r/RightMesh/) | [Link](https://twitter.com/Right_Mesh) |
