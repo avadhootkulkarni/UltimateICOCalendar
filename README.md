@@ -12,7 +12,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| September 1 | Dogezer | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) | [Link](https://slackpass.io/dogezer) | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
+| September 1 | Dogezer PreICO | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) |  | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
 | September 4 | Grace | Incentivized Donations Platform for Maximal Social Impact  | Ethereum | [Link](https://www.gracetoken.org) | [Link](http://gracetoken.herokuapp.com/) | [Link](https://www.reddit.com/r/GraceToken/) | [Link](https://twitter.com/grace_token) |
 | September 5 | ZeroTraffic | Solving your traffic congestion management issues  | Ethereum | [Link](http://www.zerotraffic.io) | [Link]( ) | [Link](https://www.reddit.com/user/ZeroTraffic/) | [Link](https://twitter.com/zerotrafficZTT) |
 | September 6 | Matryx | Incentivized Innovation Through Collaborative Competition | Ethereum | [Link](http://www.matryx.ai) | [Link](https://t.me/matryxai) | [Link](https://www.reddit.com/r/matryx/) | [Link](https://twitter.com/matryx_ai) |
@@ -41,6 +41,8 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | November 10 | Arker | Arker is the first RPG online video game that rewards the user with a cryptocurrency. | Waves | [Link](https://arker.io/) | [Link](https://join.slack.com/t/arkerofficial/shared_invite/enQtMjU3MzUyNjU4OTYzLTAyNWUxOTQyN2FjNzBiNzZjYTlmOGQwMjVmODAyMjhiZTFjZmZjMmJlM2RmNzY3YjZlOWY4MTVkYTUzZWI1ZTU) | | [Link](https://twitter.com/ArkerCommunity) |
 | November 22 | Neunio | Applying blockchain and AI to classic HR processes and challenges, leveraging the utility token Neunios to power interactions on the platform. | Own Blockchain | [Link](https://neunio.io) | (Discord) [Link](https://discord.gg/W9kZyqX) | | [Link](https://twitter.com/neunet_iXd) |
 | November 30 | Debitum | Leveraging Blockchain technology to secure and distribute fiat investments to the SME world. Decentralized, accessible, and fair. | Ethereum | [Link](https://debitum.network) | [Link](https://t.me/joinchat/G6KFmURKsu0FIfJetJ3mOA) | [Link](https://www.reddit.com/user/DebitumNetwork) | [Link](https://twitter.com/DebitumNetwork) |
+| January 15 | Dogezer PrivateICO | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) |  | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
+| February 15 | Dogezer PublicICO | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) |  | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
 
 ## Coming Soon
 
